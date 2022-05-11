@@ -13,11 +13,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h3 className={styles.title}>
-          Hi, I'm Lukas, a German-based Analytics Developer. 
+          Hi, I&apos;m Lukas, a German-based Analytics Developer. 
         </h3>
 
         <p className={styles.description}>
-          Today it's my job to make data human-friendly and usable - I like it! However,
+          Today it&apos;s my job to make data human-friendly and usable - I like it! However,
           I was not always diving in data lakes why I would describe myself as a kind of hybrid: For
           nearly ten years I worked as a project manager in the financial services industry,
           where I headed the PMO of a large IT transformation project for two years.
