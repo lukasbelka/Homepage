@@ -18,7 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Today it&apos;s my job to make data human-friendly and usable - I like it! However,
-          I was not always diving in data lakes why I would describe myself as a kind of hybrid: For
+          I was not always diving in data lakes why I would describe myself as kind of hybrid: For
           nearly ten years I worked as a project manager in the financial services industry,
           where I headed the PMO of a large IT transformation project for two years.
         </p>
