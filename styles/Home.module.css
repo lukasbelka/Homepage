@@ -28,6 +28,12 @@
   flex-grow: 1;
 }
 
+.column {
+  margin: 1rem;
+  padding: 1.5rem;
+  text-align: center; 
+}
+
 .title a {
   color: #0070f3;
   text-decoration: none;
