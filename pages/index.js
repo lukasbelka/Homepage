@@ -29,7 +29,7 @@ export default function Home() {
         </p>
         <p className={styles.description}>
           I believe open data is key to increase transparency and knowledge across all domains. Therefore
-          I use data, tranform it and share it for free!
+          I use data, transform it and share it for free!
         </p> 
 {/*          <code className={styles.code}>pages/index.js</code>*/}
 
